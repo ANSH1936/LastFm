@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.idea/
+*.pt
+*.pth
+data/raw/
+data/processed/*.pkl
+checkpoints/
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
